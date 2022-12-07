@@ -1,0 +1,11 @@
+40 요소 배열을 사용하여 각각 최대 40 자리의 정수를 저장하는 HugeInteger 클래스를 작성하십시오.
+입력, 출력, 더하기 및 빼기 멤버 함수를 제공하십시오.
+HugeInteger 객체를 비교하려면 isEqualTo, isNotEqualTo, isGreaterThan, isLessThan, isGreaterThanOrEqualTo 및 isLessThanOrEqualTo로 함수를 제공하십시오.
+이들 각각은 "Predicate"함수로, 두 HugeInterger 사이의 관계가 유지되면 true를 리턴하고 관계가 유지되지 않으면 false를 리턴합니다.
+또한 predicate 함수 isZero를 제공하십시오.
+필요하면 곱셈, 나눗셈, 나머지 기능을 제공하십시오.
+
+isGreater
+1: 먼저 인풋이 큼
+0: 같음
+-1: 작음
